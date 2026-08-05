@@ -1,4 +1,11 @@
-public class Square{
+// Solving the Sqaure pattern1
+/*
+	* * * *
+	* * * *
+	* * * *
+	* * * *
+*/
+public class Pattern01{
     public static void pattern1(int n) {
         int i;
         int j;
