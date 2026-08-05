@@ -1,3 +1,9 @@
+
+// 1
+// 22
+// 333
+// 4444
+// 55555
 public class Pattern04 {
     public static void Pattern4 (int n) {
         int i;
