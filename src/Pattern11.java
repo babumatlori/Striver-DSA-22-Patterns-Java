@@ -1,3 +1,9 @@
+// 1
+// 01
+// 101
+// 0101
+// 10101
+
 import java.util.Scanner;
 
 public class Pattern11 {
