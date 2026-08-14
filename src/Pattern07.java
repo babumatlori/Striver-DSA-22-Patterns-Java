@@ -9,6 +9,7 @@ public class Pattern07 {
         int j;
 
         for( i = 0; i < n; i++) {
+            // space
             for(j = n- i; j>1; j--  ) {
                 System.out.print(" ");
             }
