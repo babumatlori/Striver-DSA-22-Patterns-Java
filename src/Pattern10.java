@@ -39,5 +39,6 @@ public class Pattern10 {
             int n = sc.nextInt();
             halfFullPyramid(n);
         }
+        sc.close();
     }
 }
