@@ -15,9 +15,13 @@ public class Pattern17 {
                     System.out.print(" ");
                 }
 
-                for(j = 1; j <= 2 * i -1; j++){
-                    System.out.print((char)('A' + j -1));
-                }
+                 for (char ch = 'A'; ch <= 'A' + i - 1; ch++) {
+                System.out.print(ch + " ");
+            }
+
+                for (char ch = (char) ('A' + i - 2); ch >= 'A'; ch--) {
+                System.out.print(ch + " ");
+            }
                 System.out.println();
             }
         }
