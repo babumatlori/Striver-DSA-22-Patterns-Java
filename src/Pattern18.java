@@ -2,7 +2,7 @@
 // E
 // D E
 // C D E
-// B C D E 
+// B C D E
 // A B C D E
 
 import java.util.Scanner;
@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class Pattern18 {
     static void AlpTra(int n) {
         int i;
-        int j;
 
         for( i = 0; i < n; i++) {
          char start = (char) ('A' + n - 1 - i);
